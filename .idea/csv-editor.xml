@@ -17,6 +17,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="/xavier_telepath/scrapers/scopus_quantum_computing_articles.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
       </map>
     </option>
   </component>

@@ -106,7 +106,7 @@ Project Maintainer: Kid A
 - Email: thisismeamir@outlook.com
 - Telegram: @thisismeamir
 
-Xavier Project Telegram Channel: [Xavier Channel](https://t.me/xavier_project)
+Xavier Project Telegram Channel: [Xavier Channel](https://t.me/+5qEkHVO-6V9iNjI8)
 
 ## Show Your Support
 
@@ -115,7 +115,4 @@ If you find this project useful, please consider giving it a star on GitHub! You
 ## Donations
 
 If you'd like to support the development of Xavier, consider making a donation. Your contributions help maintain the project and fund new features.
-
-[Add donation methods here, such as cryptocurrency addresses, PayPal link, or other preferred donation channels]
-
 Thank you for your support!

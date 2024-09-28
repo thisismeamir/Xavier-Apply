@@ -41,7 +41,7 @@ The Oracle component serves as the interface for users to interact with the proc
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/xavier.git
+   git clone https://github.com/thisismeamir/xavier.git
    cd xavier
    ```
 

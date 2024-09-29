@@ -3,21 +3,49 @@
   <component name="CsvFileAttributes">
     <option name="attributeMap">
       <map>
-        <entry key="/xavier_telepath/scrapers/arxiv.csv">
+        <entry key="/xavier_telepath/scrapers/articles_ai.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="/xavier_telepath/scrapers/arxiv_quantum_computing.csv">
+        <entry key="/xavier_telepath/scrapers/articles_john_doe.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="/xavier_telepath/scrapers/scopus_quantum_computing_articles.csv">
+        <entry key="/xavier_telepath/scrapers/arxiv_data.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/xavier_telepath/scrapers/professor_john_doe.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/xavier_telepath/scrapers/professor_scholar_id.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/xavier_telepath/scrapers/professors_harvard.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/xavier_telepath/scrapers/professors_quantum.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />

@@ -116,3 +116,9 @@ If you find this project useful, please consider giving it a star on GitHub! You
 
 If you'd like to support the development of Xavier, consider making a donation. Your contributions help maintain the project and fund new features.
 Thank you for your support!
+
+BTC: 
+bc1qc7x6jum26ppkgj709lxwaepx8cy8agu3hz4yam
+
+USDT Etherium:
+0xD9FC2B0e34e3D15AafA5C9d6aD121F97a95d1E6c

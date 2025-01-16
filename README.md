@@ -12,7 +12,8 @@ The Xavier project is divided into three main components:
 2. **Xavier Mind**: Handles data cleaning and profile generation.
 3. **Xavier Oracle**: Manages API responses and AI-driven interactions.
 
-### Xavier Telepath
+<details>
+<summary>Xavier Telepath</summary>
 
 The Telepath component focuses on collecting raw data from various sources, including:
 
@@ -20,6 +21,8 @@ The Telepath component focuses on collecting raw data from various sources, incl
 - Publication databases
 - Social media platforms
 - Public APIs
+
+</details>
 
 ### Xavier Mind
 
